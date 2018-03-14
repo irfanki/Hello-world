@@ -52,7 +52,6 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 # Step 5. Merge your Pull Request
 In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
-
 Click the green Merge pull request button to merge the changes into master.
 Click Confirm merge.
 Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
